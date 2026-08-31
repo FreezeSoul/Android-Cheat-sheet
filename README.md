@@ -1,6 +1,8 @@
 # Android-Cheat-sheet
 Cheat Sheet for Android Interviews. **Updated the list to include the latest android components available in 2024.**
 
+*Maintained by Anitaa Murthy, a mobile engineer with 10+ years building products end to end across Android, iOS and backend. Currently available for freelance projects: [portfolio](https://devanddroid.com/portfolio) · murthyanitaa@gmail.com*
+
 ## Topics
 * [Common Coding Programs](#common-coding-programs)
 * [Data Structure Coding Programs](#data-structure-coding-programs)
